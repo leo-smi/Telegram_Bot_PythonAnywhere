@@ -35,7 +35,7 @@ def usd_eur(msg):
     response = requests.get(url)
     data = response.json()
     # Your JSON object
-    bot.send_message(msg.chat.id, 'Dólar compra: {}'.format(data["rates"]["EUR"]))
+    bot.send_message(msg.chat.id, 'USD to EUR: {}'.format(data["rates"]["EUR"]))
 
 
 
