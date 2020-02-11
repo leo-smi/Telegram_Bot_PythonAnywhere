@@ -1,5 +1,5 @@
-# telegram-bot-pythonanywhere
-How to make a Telegram bot and deploy in pythonanywhere
+# Telegram Bot PythonAnywheree
+How to make a Telegram bot and deploy in PythonAnywhere
 
 Pyhonanywhere have a free python code project deploy plan, so I decide to make a Telegram bot.
 
